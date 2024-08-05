@@ -6,7 +6,7 @@ All solutions in C++
 
 ## Current Progress
 
-Contests participated: 1
-Rating: 13
-Color: Grey
+- Contests participated: 1
+- Rating: 13
+- Color: Grey
 
