@@ -10,3 +10,4 @@ All solutions in C++
 - Rating: 13
 - Color: Grey
 
+![Yuta's ranking progression graph](/ranking.png)
