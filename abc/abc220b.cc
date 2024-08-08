@@ -4,9 +4,11 @@ typedef long long ll;
 
 ll f(string S, ll k) {
   ll ans = 0;
+  int i = 0;
+  reverse(S.begin(), S.end());
   for (const char s : S) {
-    ans *= k;
-    ans += s - '0';
+    ans += ((s - '0') * pow(k, i));
+    i++;
   }
   return ans;
 }
