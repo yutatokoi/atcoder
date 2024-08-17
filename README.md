@@ -6,8 +6,8 @@ All solutions in C++
 
 ## Current Progress
 
-- Contests participated: 2
-- Rating: 61
+- Contests participated: 3
+- Rating: 89
 - Color: Grey
 
 ![Yuta's ranking progression graph](/ranking.png)
